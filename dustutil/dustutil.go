@@ -1,6 +1,10 @@
 package dustutil
 
-import "strconv"
+import (
+	"strconv"
+
+
+)
 
 func IsPalendrome(num int) bool{
 	str:= strconv.Itoa(num)
@@ -24,4 +28,31 @@ func IsPrime(num int)bool{
 
 	}
 	return true
+}
+
+func GetFactors(num int)[]int{
+	factors := make([]int,0)
+	half:=num/2
+	for i:=1;i<half;i++{
+
+		if num%i ==0{
+			if InSliceInt(factors,i){
+				break
+			}
+			factors=append(factors,i)
+			factors=append(factors,num/i)
+		}
+	}
+	return factors
+}
+
+func InSliceInt(qSlice []int,x int)bool{
+	for _,v:= range qSlice {
+		if v==x{
+
+			return true
+		}
+
+	}
+	return false
 }
