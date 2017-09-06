@@ -20,8 +20,8 @@ func IsPalendrome(num int) bool{
 
 }
 func IsPrime(num int)bool{
-	half:= num/2
-	for i:=2;i<half;i++{
+
+	for i:=2;i<num/i;i++{
 		if num%i==0{
 			return false
 		}
@@ -32,13 +32,11 @@ func IsPrime(num int)bool{
 
 func GetFactors(num int)[]int{
 	factors := make([]int,0)
-	half:=num/2
-	for i:=1;i<half;i++{
+
+	for i:=1;i<num/i;i++{
 
 		if num%i ==0{
-			if InSliceInt(factors,i){
-				break
-			}
+
 			factors=append(factors,i)
 			factors=append(factors,num/i)
 		}
