@@ -54,3 +54,28 @@ func InSliceInt(qSlice []int,x int)bool{
 	}
 	return false
 }
+func InSliceSlice(qSlice [][]int,x []int)bool{
+	for _,v:= range qSlice {
+		if len(v)!=len(x){continue}
+		var count int
+		for i:=0;i<len(v);i++{
+
+
+			if v[i]!=x[i]{
+				break
+			}else{
+				count++
+				if count==len(v){return true}
+			}
+		}
+
+
+		}
+
+
+
+
+
+
+	return false
+}

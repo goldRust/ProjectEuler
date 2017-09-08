@@ -11,7 +11,7 @@ func main(){
 	for i:=3;i<=2000000;i++{
 		if dustutil.IsPrime(i){
 			sumPrime+=i
-			fmt.Println("Added: ",i)
+
 
 		}
 	i++
