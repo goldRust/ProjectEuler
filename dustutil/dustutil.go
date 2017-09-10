@@ -5,6 +5,40 @@ import (
 
 
 )
+//IntSlice is a slice of ints.... as the name implies.
+type IntSlice []int
+func (is IntSlice) InSlice(qSlice []int,x int)bool{
+	for _,v:= range qSlice {
+		if v==x{
+
+			return true
+		}
+
+	}
+	return false
+}
+//StringSlice is a slice of strings.
+type StringSlice []string
+
+func (ss StringSlice) InSlice(qSlice []string, x string)bool{
+	for _,v:= range qSlice{
+		if v==x{
+			return true
+		}
+	}
+	return false
+}
+//The dsi interface holds the methods for IntSlice and StringSlice
+
+type dsi interface {
+//InSlice allows the user to search for a value within a slice.
+	//Returns a boolean.
+	InSlice()
+
+}
+
+
+
 
 func IsPalendrome(num int) bool{
 	str:= strconv.Itoa(num)
@@ -44,16 +78,16 @@ func GetFactors(num int)[]int{
 	return factors
 }
 
-func InSliceInt(qSlice []int,x int)bool{
-	for _,v:= range qSlice {
-		if v==x{
-
-			return true
-		}
-
-	}
-	return false
-}
+//func InSliceInt(qSlice []int,x int)bool{
+//	for _,v:= range qSlice {
+//		if v==x{
+//
+//			return true
+//		}
+//
+//	}
+//	return false
+//}
 func InSliceSlice(qSlice [][]int,x []int)bool{
 	for _,v:= range qSlice {
 		if len(v)!=len(x){continue}
