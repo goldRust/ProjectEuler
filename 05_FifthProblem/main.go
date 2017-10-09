@@ -2,14 +2,16 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	var num int
-	i:=1
+	i := 1
 	//run loop until divBy returns true
 	for {
 
-		if divBy(i){num=i
-		break}
+		if divBy(i) {
+			num = i
+			break
+		}
 
 		i++
 	}
@@ -17,14 +19,14 @@ func main(){
 	fmt.Println(num)
 
 }
-	func divBy(num int)bool{
-		//cycle through 1 - 20
-		for i:=1;i<=20;i++{
-			//eliminate any numbers that are not divisible by i
-			if num%i!=0{
-				return false
-			}
+func divBy(num int) bool {
+	//cycle through 1 - 20
+	for i := 1; i <= 20; i++ {
+		//eliminate any numbers that are not divisible by i
+		if num%i != 0 {
+			return false
 		}
-		// return true if the int made it through
-		return true
 	}
+	// return true if the int made it through
+	return true
+}

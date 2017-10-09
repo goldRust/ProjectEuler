@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/15_LatticePaths/main.go" line="25" />
+    <bookmark url="file://$PROJECT_DIR$/15_LatticePaths/main.go" line="22" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a23a4a6f-96d8-4029-979b-a155be76b788" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/00_TestUtil/main.go" afterPath="$PROJECT_DIR$/00_TestUtil/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/02_SecondProblem/main.go" afterPath="$PROJECT_DIR$/02_SecondProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/03_ThirdProblem/main.go" afterPath="$PROJECT_DIR$/03_ThirdProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/04_ForthProblem/main.go" afterPath="$PROJECT_DIR$/04_ForthProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/05_FifthProblem/main.go" afterPath="$PROJECT_DIR$/05_FifthProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/06_SixthProblem/main.go" afterPath="$PROJECT_DIR$/06_SixthProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/07_SeventhProblem/main.go" afterPath="$PROJECT_DIR$/07_SeventhProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/08_EigthProblem/main.go" afterPath="$PROJECT_DIR$/08_EigthProblem/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/09_PythagoreanTriplet/main.go" afterPath="$PROJECT_DIR$/09_PythagoreanTriplet/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/10_SumPrimes/main.go" afterPath="$PROJECT_DIR$/10_SumPrimes/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/11_GridGrind/main.go" afterPath="$PROJECT_DIR$/11_GridGrind/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/12_TriangularNums/main.go" afterPath="$PROJECT_DIR$/12_TriangularNums/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/13_SumOf100FiftyDigits/main.go" afterPath="$PROJECT_DIR$/13_SumOf100FiftyDigits/main.go" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/14_Collatz/main.go" afterPath="$PROJECT_DIR$/14_Collatz/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/15_LatticePaths/main.go" afterPath="$PROJECT_DIR$/15_LatticePaths/main.go" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dustutil/dustutil.go" afterPath="$PROJECT_DIR$/dustutil/dustutil.go" />
     </list>
@@ -35,12 +22,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/15_LatticePaths/main.go">
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/00_TestUtil/main.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-              <folding />
+            <state relative-caret-position="489">
+              <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+              <folding>
+                <element signature="e#14#76#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,9 +37,45 @@
       <file leaf-file-name="dustutil.go" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dustutil/dustutil.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="597">
-              <caret line="128" column="76" lean-forward="false" selection-start-line="128" selection-start-column="76" selection-end-line="128" selection-end-column="76" />
+            <state relative-caret-position="414">
+              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+              <folding>
+                <element signature="e#18#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/12_TriangularNums/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+              <folding>
+                <element signature="e#14#76#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/10_SumPrimes/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/15_LatticePaths/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="32" column="67" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+              <folding>
+                <element signature="e#14#77#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -98,7 +123,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="974" />
+    <option name="width" value="1001" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -119,8 +144,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,6 +170,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,15 +198,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Application.go run main.go (1)">
+  <component name="RunManager" selected="Go Single File.go run main.go (1)">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
       <go_parameters value="-i" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
       <package value="github.com/goldRust/ProjectEuler" />
       <directory value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="ProjectEuler" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="ProjectEuler" />
@@ -191,51 +221,45 @@
       <kind value="DIRECTORY" />
       <package value="github.com/goldRust/ProjectEuler" />
     </configuration>
-    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+    <configuration name="go run main.go (1)" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="go run main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
-      <module name="ProjectEuler" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/15_LatticePaths/main.go" />
     </configuration>
-    <configuration name="go run main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go run main.go (2)" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/10_SumPrimes/main.go" />
     </configuration>
-    <configuration name="go run main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go run main.go (3)" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/00_TestUtil/main.go" />
     </configuration>
-    <configuration name="go run main.go (5)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go run main.go (5)" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/13_SumOf100FiftyDigits/main.go" />
     </configuration>
-    <configuration name="go run main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go run main.go" type="GoRunFileConfiguration" factoryName="Go Single File" temporary="true">
       <module name="ProjectEuler" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/14_Collatz/main.go" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Application.go run main.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Application.go run main.go (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Go Application.go run main.go (2)" />
-      <item index="3" class="java.lang.String" itemvalue="Go Application.go run main.go (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Go Application.go run main.go (5)" />
+      <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go (2)" />
+      <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Single File.go run main.go (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Go Single File.go run main.go (3)" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Go Application.go run main.go (1)" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Go Single File.go run main.go (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Go Single File.go run main.go (3)" />
+        <item index="2" class="java.lang.String" itemvalue="Go Single File.go run main.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Single File.go run main.go (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Go Single File.go run main.go (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -257,9 +281,6 @@
       <workItem from="1505076418803" duration="2613000" />
       <workItem from="1505081682344" duration="1890000" />
       <workItem from="1505102532871" duration="5853000" />
-      <workItem from="1506050207794" duration="1041000" />
-      <workItem from="1507004229873" duration="1819000" />
-      <workItem from="1507522635741" duration="2006000" />
     </task>
     <task id="LOCAL-00001" summary="First">
       <created>1504504735151</created>
@@ -286,7 +307,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55556000" />
+    <option name="totallyTimeSpent" value="50690000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -298,9 +319,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="-7" y="0" width="1001" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35042736" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3509865" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.49789253" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.19209659" sideWeight="0.22429906" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33150384" sideWeight="0.48390445" order="2" side_tool="false" content_ui="tabs" />
@@ -369,6 +391,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -376,7 +399,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="e#14#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -384,6 +409,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -391,6 +419,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="18" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -398,7 +429,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="936">
           <caret line="56" column="32" lean-forward="false" selection-start-line="56" selection-start-column="29" selection-end-line="56" selection-end-column="32" />
-          <folding />
+          <folding>
+            <element signature="e#18#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -406,6 +439,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -413,6 +449,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="37" lean-forward="true" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -420,7 +457,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
           <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
+          <folding>
+            <element signature="e#14#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -435,6 +474,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="22" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -491,6 +533,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="22" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -540,6 +585,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="22" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -582,6 +630,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -695,6 +746,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="47" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -702,6 +754,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="19" column="18" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -709,29 +764,39 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="15" column="27" lean-forward="false" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/00_TestUtil/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
+        <state relative-caret-position="489">
           <caret line="30" column="25" lean-forward="false" selection-start-line="30" selection-start-column="25" selection-end-line="30" selection-end-column="25" />
+          <folding>
+            <element signature="e#14#76#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/dustutil/dustutil.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="597">
-          <caret line="128" column="76" lean-forward="false" selection-start-line="128" selection-start-column="76" selection-end-line="128" selection-end-column="76" />
-          <folding />
+        <state relative-caret-position="414">
+          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="e#18#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/15_LatticePaths/main.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="10" column="9" lean-forward="false" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-          <folding />
+        <state relative-caret-position="367">
+          <caret line="32" column="67" lean-forward="false" selection-start-line="32" selection-start-column="67" selection-end-line="32" selection-end-column="67" />
+          <folding>
+            <element signature="e#14#77#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

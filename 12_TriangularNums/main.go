@@ -5,18 +5,17 @@ import (
 	"github.com/goldRust/ProjectEuler/dustutil"
 )
 
-func main(){
+func main() {
 	var thisTri int
-	for i:=1;;i++{
+	for i := 1; ; i++ {
 
+		thisTri += i
 
-			thisTri+=i
-
-		factors:=dustutil.GetFactors(thisTri)
-		if len(factors)>500{
-		fmt.Println(i," : ",thisTri," : ",factors)
-		break}
-
+		factors := dustutil.GetFactors(thisTri)
+		if len(factors) > 500 {
+			fmt.Println(i, " : ", thisTri, " : ", factors)
+			break
+		}
 
 	}
 }
